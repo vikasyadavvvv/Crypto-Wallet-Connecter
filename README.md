@@ -30,11 +30,11 @@ Follow these steps to set up the project:
    ```bash
 npm install
 
-
 3 **Start the Development Server**
-
    ```bash
 npm start
+   ```bash
+
 
 
 

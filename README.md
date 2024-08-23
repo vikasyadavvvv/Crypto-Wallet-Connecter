@@ -24,7 +24,7 @@ Follow these steps to set up the project:
    ```bash
    git clone https://github.com/your-username/wallet-connector.git
    cd wallet-connector
-2.
+2
       ```bash
 npm install
 3
